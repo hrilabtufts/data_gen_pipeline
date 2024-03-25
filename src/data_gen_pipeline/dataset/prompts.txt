@@ -1,0 +1,56 @@
+chatgpt prompts:
+
+1. Emma is at a cafe and Reese is an employee cleaning up. A clean mug and dirty mug are on the table.
+2. Lily is at Morgan's house and Morgan is an employee cleaning up. A clean mug and dirty mug are on the table.
+3. Alexander is at a cafe and Anthony is a host serving coffee. A clean mug and dirty mug are on the table.
+4. Ethan is at Avery's house and Avery is a host serving coffee. A clean mug and dirty mug are on the table.
+5. Victoria is at a cafe and Alex is an employee cleaning up. A full mug and empty mug are on the table.
+6. Liam is at Charlotte's house and Charlotte is an employee cleaning up. A full mug and empty mug are on the table.
+7. Peyton is at a cafe and Jacob is a host serving coffee. A full mug and empty mug are on the table.
+8. Gabriel is at Noah's house and Noah is a host serving coffee. A full mug and empty mug are on the table.
+
+dalle prompts:
+
+1. Cartoon art. in a cafe one person sits and an employee cleans up. a clean mug and dirty mug are on the table.
+2. Cartoon art. in a house one person sits and an employee cleans up. a clean mug and dirty mug are on the table.
+3. Cartoon art. in a cafe one person sits and an employee serves coffee. a clean mug and dirty mug are on the table.
+4. Cartoon art. in a house one person sits and an employee serves coffee. a clean mug and dirty mug are on the table.
+5. Cartoon art. in a cafe one person sits and an employee cleans up. a full mug and empty mug are on the table.
+6. Cartoon art. in a house one person sits and an employee cleans up. a full mug and empty mug are on the table.
+7. Cartoon art. in a cafe one person sits and an employee serves coffee. a full mug and empty mug are on the table.
+8. Cartoon art. in a house one person sits and an employee serves coffee. a full mug and empty mug are on the table.
+
+chatgpt responses:
+
+1. Emma is enjoying her time at the cafe while Reese, an employee, diligently
+    cleans up the surroundings. On the table, there are a clean mug and a dirty
+    mug, contrasting in their appearances.
+2. Lily is spending time at Morgan's house while Morgan, who happens to be an
+    employee, diligently attends to the cleaning tasks. On the table, there are
+    both a clean mug and a dirty mug, presenting a clear contrast between their
+    conditions.
+3. Alexander is seated at the cafe, where Anthony, a diligent host, skillfully
+    serves coffee to the patrons. On the table, a clean mug and a dirty mug
+    coexist, highlighting the contrasting states of cleanliness.
+4. Ethan finds himself at Avery's house, where Avery, a gracious host, is busy
+    serving coffee to their guests. Resting on the table, a clean mug and a dirty
+    mug create a visual juxtaposition, representing the varying degrees of
+    tidiness.
+5. Victoria enjoys her time at the cafe while Alex, an industrious employee,
+    diligently attends to the cleaning tasks. On the table, a full mug and an empty
+    mug rest, symbolizing the contrasting states of beverage consumption.
+6. Liam finds himself at Charlotte's house, where Charlotte, despite being an
+    employee, takes the initiative to tidy up the surroundings. On the table, a
+    full mug and an empty mug stand as visual reminders of contrasting states of
+    beverage consumption.
+7. Peyton enjoys their time at the cafe while Jacob, a diligent host,
+    graciously serves coffee to the customers. On the table, a full mug brimming
+    with aromatic coffee and an empty mug await their fate, embodying the varying
+    stages of beverage enjoyment.
+8. Gabriel finds himself at Noah's house, where Noah, playing the role of a
+    hospitable host, diligently serves coffee to their guests. On the table, a full
+    mug exuding the aroma of freshly brewed coffee accompanies an empty mug,
+    highlighting the contrasting states of beverage consumption and the potential
+    for a refill.
+
+dalle responses as labeled images
